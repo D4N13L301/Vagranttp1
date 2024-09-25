@@ -1,0 +1,26 @@
+vagrant status
+apt install vagrant
+su
+apt install vagrant
+vagrant status
+LS -LA
+ls -la
+pwd
+help
+pwd
+ls
+ls -l
+ls -a
+ls -la
+man mna
+man man
+git clone https://github.com/D4N13L301/TP_AySO.git
+ls -la
+cd TP_AySO
+ls -la
+ls
+git status
+ls -la
+git --version
+vagrant half
+exit
